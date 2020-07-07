@@ -1,7 +1,5 @@
 import Head from 'next/head'
 
-const foo = 'aosk'
-
 export default function Home() {
   return (
     <div className="container">
